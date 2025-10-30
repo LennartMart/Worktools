@@ -6,13 +6,11 @@ List of worktools &amp; configurations
 - Azure Data Studio
 - Docker Desktop
 - Dropbox
-- Ferdi
+- Ferdium
 - Fiddler
 - Firefox
-- Git
-- KeePass
+- Git for Windows
 - mRemoteNG
-- NodeJS
 - Notepad++
 - ShareX
 - Slack
@@ -21,6 +19,10 @@ List of worktools &amp; configurations
 - Visual Studio Code
 - Visual Studio Professional
 - WinSCP
+- Android Studio
+- nvm-windows
+- Flutter
+
 
 ## Fonts
 - https://github.com/tonsky/FiraCode/
